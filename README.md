@@ -6,6 +6,7 @@ The aim of this project is to download LLaMA model weights, transform them into 
 
 Step 1: Downloading LLaMA Model Weights
 Using a torrent link, the LLaMA model weights are downloaded. The provided magnet link is used for this purpose:
+
 magnet:?xt=urn:btih:b8287ebfa04f879b048d4d4404108cf3e8014352&dn=LLaMA
 
 Step 2: Converting LLaMA Weights to Hugging Face Format
