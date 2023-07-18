@@ -8,7 +8,6 @@ Step 1: Downloading LLaMA Model Weights
 Using a torrent link, the LLaMA model weights are downloaded. The provided magnet link is used for this purpose:
 
 **_magnet:?xt=urn:btih:b8287ebfa04f879b048d4d4404108cf3e8014352&dn=LLaMA_**
-<u>content</u>
 
 Step 2: Converting LLaMA Weights to Hugging Face Format
 To make the LLaMA weights compatible with the Transformer library, a Python script called 'convert_llama_weights_to_hf.py' is downloaded from the Transformer Hub. This script is used to convert the weights into a format suitable for Hugging Face. The conversion process is executed with the following command:
